@@ -5,4 +5,4 @@
 ## From my understanding, Big data is those kinds of vast amounts of data that cannot be managed  traditionally. Big data comes from different platforms with a high volume and high velocity that keep growing.
 
 
-![FunnyPic.jpg](images/FunnyPic.jpg)
+![FunnyPic.jpg](images_FunnyPic.jpg)
